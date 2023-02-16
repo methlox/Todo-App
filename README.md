@@ -22,3 +22,6 @@ Activate the virtual environment with `env\scripts\activate`
 Download all the requirements via `pip install -r requirements.txt`
 
 Run the server with `python manage.py runserver`
+
+
+## 02
